@@ -17,9 +17,6 @@ style.css            shared styles (light + dark)
 Preview locally: `python3 -m http.server 8000` in this folder, then open
 <http://localhost:8000>.
 
-## Publishing
-
-
 ## Keeping the privacy policy true
 
 The policy describes what the app does today. Update it in the same change when any of
